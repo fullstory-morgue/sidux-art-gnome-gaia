@@ -1,0 +1,13 @@
+Source: sidux-art-gnome-gaia
+Section: graphics
+Priority: extra
+Maintainer: Bernard Gray <bernard.gray@gmail.com>
+Build-Depends: cdbs, debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: sidux-art-gnome-gaia
+Architecture: all
+Depends: gdm
+Description: gnome theme for sidux 2007-03 gaia
+ Provides gdm theme only at this stage, 
+ for sidux 2007-03 Gaia release
