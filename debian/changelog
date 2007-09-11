@@ -1,8 +1,9 @@
 sidux-art-gnome-gaia (0.0.2) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
+  * add VCS control headers.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 06 Jul 2007 13:41:53 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 11 Sep 2007 20:20:52 +0200
 
 sidux-art-gnome-gaia (0.0.1) unstable; urgency=low
 
