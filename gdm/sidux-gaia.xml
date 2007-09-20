@@ -8,19 +8,6 @@
     <pos x="0" y="0" width="100%" height="100%"/>
     </item>
     <!-- the bounding box in the center -->
-    <!-- espiral -->
-  <item type="svg">
-    <normal file="espiral.svg"/>
-    <pos x="-320" y="-320" width="250" height="290"/>
-    </item>
-<!-- espiral fixado -->
-<!-- clock important -->
-  <item type="label" id="clock">
-     <normal color="#ffffff" font="Sans Bold 11"/>
-     <pos x="-10" y="97.5%" anchor="e"/>
-     <text>%c</text>
-  </item>
-<!-- clock -->
     <item type="pixmap">
         <normal file="login.png"/>
         <pos x="50%" y="50%" width="400" height="282" anchor="c"/>
@@ -133,21 +120,23 @@
             <!-- welcome -->
             <item type="label" id="welcome-label">
                 <pos x="50%" y="95" anchor="c"/>
-                <normal font="Sans Bold 18" color="#000000"/>
+                <normal font="Sans Bold 18" color="#999073"/>
                 <stock type="welcome-label"/>
             </item>
 
+		<!-- clock important -->
+		  <item type="label" id="clock">
+		     <normal color="#AFAA8E" font="Sans Bold 11"/>
+		     <pos x="50%" y="105" anchor="c"/>
+		     <text>%c</text>
+		  </item>
+		<!-- clock -->
             <!-- username label -->
             <item type="label" id="pam-prompt">
-                <pos x="50%" y="120" anchor="c"/>
-                <normal font="Sans Bold 12" color="#000000"/>
+                <pos x="50%" y="130" anchor="c"/>
+                <normal font="Sans 12" color="#999073"/>
                 <stock type="username-label"/>
             </item>
-       <item type="label" id="pam-message">
-            <pos anchor="c" x="50%" y="130"/>
-                <normal color="#000000" font="Sans 11"/>
-                <text></text>
-        </item>
 
             <!-- user-pw-entry background pixmap -->
             <item type="pixmap">
@@ -158,7 +147,7 @@
             <!-- user-pw-entry -->
             <item type="entry" id="user-pw-entry">
                 <pos x="100" y="105" width="280" height="20"/>
-                <normal font="Sans 12" color="#444444"/>
+                <normal font="Sans 12" color="#999073"/>
             </item>
         </box>
     </item>
