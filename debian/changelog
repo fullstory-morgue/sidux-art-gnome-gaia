@@ -1,13 +1,9 @@
-sidux-art-gnome-gaia (0.0.3) UNRELEASED; urgency=low
+sidux-art-gnome-gaia (0.0.3) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * fix gdm font colours and sizes
   * move clock into login box
   * remove redundant username helper text
-	
+
  -- Bernard Gray <bernard.gray@gmail.com>  Thu, 20 Sep 2007 18:28:23 +1000
 
 sidux-art-gnome-gaia (0.0.2) unstable; urgency=low
