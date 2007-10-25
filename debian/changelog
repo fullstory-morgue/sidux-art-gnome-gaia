@@ -1,3 +1,9 @@
+sidux-art-gnome-gaia (0.2) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 25 Oct 2007 19:09:55 +0200
+
 sidux-art-gnome-gaia (0.1) unstable; urgency=low
 
   * update syntax for Vcs headers in debian/control
