@@ -11,6 +11,6 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-gnome-gaia/trunk/
 Package: sidux-art-gnome-gaia
 Architecture: all
 Depends: gdm
-Description: gnome theme for sidux 2007-03 gaia
+Description: GNOME theme for sidux 2007-03 gaia
  Provides gdm theme only at this stage, 
  for sidux 2007-03 Gaia release
